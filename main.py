@@ -195,5 +195,5 @@ async def ayuda(ctx):
     embed.add_field(name = 'Comandos disponibles', value = 'saludo, hora, fecha, ban, desban, emoji, borrar, serverinfo, userinfo, clear, kick, mute, unmute, lock, unlock, decir, ping, invite')
     await ctx.send(embed = embed)
 
-
+#YOUR TOKEN
 client.run("TOKEN")
