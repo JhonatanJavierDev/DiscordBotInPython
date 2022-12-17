@@ -27,7 +27,7 @@ Este es un código escrito en Python, tiene mucho que agregar ya que lo estaba u
 
 Para instalar el bot debes llamar a la libreria discord.py
 
-*first*
+*Primero*
 
 ```pip install discord.py```
 [Leer documentación](https://pypi.org/project/discord.py/)
