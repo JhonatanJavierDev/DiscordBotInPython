@@ -196,4 +196,4 @@ async def ayuda(ctx):
     await ctx.send(embed = embed)
 
 
-client.run("MTA1MjQ3Njc4NDgwMjc5OTY3Ng.GkYuaV.lFe4fvBYx0TdIgIE--NojBMlAR6S843LBxvXBU")
+client.run("TOKEN")
